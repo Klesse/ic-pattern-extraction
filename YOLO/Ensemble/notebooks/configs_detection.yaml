@@ -1,0 +1,7 @@
+path: '/home/pedroklesse/IC/YOLO/Ensemble/dataset-yolo-detection'
+train: 'train/'
+val: 'valid/'
+test: # opcional
+
+nc: 3
+names: ['notehead', 'staff', 'beam']

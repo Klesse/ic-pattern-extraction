@@ -1,0 +1,9 @@
+/YOLO/Segmentation/best.pt
+/YOLO/Segmentation/best_ensemble.pt
+/YOLO/Segmentation/best_ensemble_final.pt
+/YOLO/Segmentation/best_predict.pt
+/YOLO/Segmentation/YOLOv8n-seg.pt
+/YOLO/Segmentation/sam_vit_h_4b8939.pth
+/YOLO/Ensemble/notebooks/best_ensemble_final.pt
+/YOLO/Ensemble/notebooks/sam_vit_h_4b8939.pth
+
