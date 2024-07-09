@@ -19,3 +19,8 @@ Cartesian Genetic Programming (CGP).
 
 1. YOLOv8 e YOLOv8 + SAM: main.py (and pipeline.py)
 2. CGP: main_cgp.py (and CGP.py)
+
+## Acknowledgements
+
+- [Pedro Malandrin Klesse](https://www.github.com/Klesse)
+- Emerson Carlos Pedrino
